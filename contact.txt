@@ -1,3 +1,6 @@
 
 jabber/xmpp IM chat (this is NOT an email!) rfree@dukgo.com
+with OTR fingerprint: ACE9221E 960E287E 88C146A2 D59FAB67 F2844784
+
+low-security: rfree.w@dukgo.com
 
